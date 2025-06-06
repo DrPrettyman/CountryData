@@ -1,0 +1,256 @@
+region,subregion,country,iso2,iso3,m49,m49_comtrade,latitude,longitude,ldc,non_country_region
+Asia,Southern Asia,Afghanistan,AF,AFG,4,4,34.13402601376932,66.59216131095278,True,False
+Europe,Southern Europe,Albania,AL,ALB,8,8,41.14165894891656,20.061082767269493,False,False
+Africa,Northern Africa,Algeria,DZ,DZA,12,12,28.350969744889056,2.6558464719769135,False,False
+Oceania,Polynesia,American Samoa,AS,ASM,16,16,-14.305711987770538,-170.7007316174498,False,False
+Europe,Southern Europe,Andorra,AD,AND,20,20,42.54859834854764,1.5802243611232871,False,False
+Africa,Sub-Saharan Africa,Angola,AO,AGO,24,24,-12.167424062667942,17.651768783079,True,False
+Americas,Latin America and the Caribbean,Anguilla,AI,AIA,660,660,18.222874004219086,-63.06008343771806,False,False
+,,Antarctica,AQ,ATA,10,10,-77.16987521415838,-177.56451613408842,False,False
+Americas,Latin America and the Caribbean,Antigua and Barbuda,AG,ATG,28,28,17.07146759372967,-61.78530823226373,False,False
+Americas,Latin America and the Caribbean,Argentina,AR,ARG,32,32,-35.697270518120085,-64.53238503843076,False,False
+Asia,Western Asia,Armenia,AM,ARM,51,51,40.17841274230679,45.05490831965259,False,False
+Americas,Latin America and the Caribbean,Aruba,AW,ABW,533,533,12.515625722992898,-69.97564014284046,False,False
+Oceania,Australia and New Zealand,Australia,AU,AUS,36,36,-25.69733767398308,134.02277170916162,False,False
+Europe,Western Europe,Austria,AT,AUT,40,40,47.631858269895794,13.797778364631036,False,False
+Asia,Western Asia,Azerbaijan,AZ,AZE,31,31,40.3920509942049,48.63459267064432,False,False
+Americas,Latin America and the Caribbean,Bahamas,BS,BHS,44,44,24.72162633646784,-78.07275370060313,False,False
+Asia,Western Asia,Bahrain,BH,BHR,48,48,26.04798501537066,50.540695402276775,False,False
+Asia,Southern Asia,Bangladesh,BD,BGD,50,50,23.673728665121,90.43212562608612,True,False
+Americas,Latin America and the Caribbean,Barbados,BB,BRB,52,52,13.183219369337529,-59.557383949150285,False,False
+Europe,Eastern Europe,Belarus,BY,BLR,112,112,53.46791374543163,27.964252054715104,False,False
+Europe,Western Europe,Belgium,BE,BEL,56,56,50.6182138854095,4.675010154696485,False,False
+Americas,Latin America and the Caribbean,Belize,BZ,BLZ,84,84,17.24252476647155,-88.68273510023441,False,False
+Africa,Sub-Saharan Africa,Benin,BJ,BEN,204,204,9.503013199615893,2.305714528830206,True,False
+Americas,Northern America,Bermuda,BM,BMU,60,60,32.315067430740726,-64.7458500599169,False,False
+Asia,Southern Asia,Bhutan,BT,BTN,64,64,27.42163933959824,90.4671664717386,False,False
+Americas,Latin America and the Caribbean,Bolivia,BO,BOL,68,68,-16.7312488393574,-64.45209597511206,False,False
+Americas,Latin America and the Caribbean,Bonaire,BQ,BES,535,535,12.180844982440338,-68.29350445958761,False,False
+Europe,Southern Europe,Bosnia and Herzegovina,BA,BIH,70,70,44.14415356126429,17.83467240787538,False,False
+Africa,Sub-Saharan Africa,Botswana,BW,BWA,72,72,-22.236609002062902,23.85779956995608,False,False
+Americas,Latin America and the Caribbean,Bouvet Island,BV,BVT,74,74,-54.42316679395248,3.411969465057627,False,False
+Americas,Latin America and the Caribbean,Brazil,BR,BRA,76,76,-11.524630416426652,-54.355206608256424,False,False
+Africa,Sub-Saharan Africa,British Indian Ocean Territory,IO,IOT,86,86,-7.323548444385743,72.43501618476016,False,False
+Americas,Latin America and the Caribbean,British Virgin Islands,VG,VGB,92,92,18.42195819619707,-64.62406519257699,False,False
+Asia,South-eastern Asia,Brunei Darussalam,BN,BRN,96,96,4.543205889917609,114.6430958360464,False,False
+Europe,Eastern Europe,Bulgaria,BG,BGR,100,100,42.82043677302438,25.251739122561908,False,False
+,,Bunkers,,,837,837,,,,True
+Africa,Sub-Saharan Africa,Burkina Faso,BF,BFA,854,854,12.108709036312735,-1.6932816211842323,True,False
+Africa,Sub-Saharan Africa,Burundi,BI,BDI,108,108,-3.261251993278643,29.88518227845293,True,False
+Africa,Sub-Saharan Africa,Cabo Verde,CV,CPV,132,132,15.076411518651645,-23.63401005900474,False,False
+Asia,South-eastern Asia,Cambodia,KH,KHM,116,116,12.699186865507777,105.039730786807,True,False
+Africa,Sub-Saharan Africa,Cameroon,CM,CMR,120,120,6.294168487480992,12.948474142398265,False,False
+Americas,Northern America,Canada,CA,CAN,124,124,57.55048004465563,-98.41680517868062,False,False
+Americas,Latin America and the Caribbean,Cayman Islands,KY,CYM,136,136,19.311231805620288,-81.25203208977878,False,False
+Africa,Sub-Saharan Africa,Central African Republic,CF,CAF,140,140,6.331390033944319,20.520743419397256,True,False
+Africa,Sub-Saharan Africa,Chad,TD,TCD,148,148,15.283493546654505,18.427113900363025,True,False
+Americas,Latin America and the Caribbean,Chile,CL,CHL,152,152,-37.82938283049967,-70.76863431739216,False,False
+Asia,Eastern Asia,China,CN,CHN,156,156,38.07325481105728,104.69113855849604,False,False
+Oceania,Australia and New Zealand,Christmas Island,CX,CXR,162,162,-10.446440802183416,105.70209512200547,False,False
+Oceania,Australia and New Zealand,Cocos Islands,CC,CCK,166,166,-12.171249450199545,96.83688767323002,False,False
+Americas,Latin America and the Caribbean,Colombia,CO,COL,170,170,4.187753877352739,-72.6445066243485,False,False
+Africa,Sub-Saharan Africa,Comoros,KM,COM,174,174,-11.658861474508493,43.34826587429403,True,False
+Africa,Sub-Saharan Africa,Congo,CG,COG,178,178,-0.7294391595233845,14.879732849491392,False,False
+Africa,Sub-Saharan Africa,Congo DRC,CD,COD,180,180,-3.338629596207896,23.419827574282188,True,False
+Oceania,Polynesia,Cook Islands,CK,COK,184,184,-21.22261325339984,-159.78768870952257,False,False
+Americas,Latin America and the Caribbean,Costa Rica,CR,CRI,188,188,9.863467407406214,-84.14673625701816,False,False
+Europe,Southern Europe,Croatia,HR,HRV,191,191,44.91192100856702,16.625761129583374,False,False
+Americas,Latin America and the Caribbean,Cuba,CU,CUB,192,192,21.476176522869448,-79.69817857618705,False,False
+Americas,Latin America and the Caribbean,Curacao,CW,CUW,531,531,12.199996647939832,-68.96939768599042,False,False
+Asia,Western Asia,Cyprus,CY,CYP,196,196,35.11700416345239,33.375346009199205,False,False
+Europe,Eastern Europe,Czech Republic,CZ,CZE,203,203,49.74917370930982,15.383273292023532,False,False
+Africa,Sub-Saharan Africa,Côte d'Ivoire,CI,CIV,384,384,7.536779279421307,-5.571710194917734,False,False
+Europe,Northern Europe,Denmark,DK,DNK,208,208,56.00118817971057,9.378670542409406,False,False
+Africa,Sub-Saharan Africa,Djibouti,DJ,DJI,262,262,11.750235727618804,42.613496898789506,True,False
+Americas,Latin America and the Caribbean,Dominica,DM,DMA,212,212,15.429269860940511,-61.360471946942994,False,False
+Americas,Latin America and the Caribbean,Dominican Republic,DO,DOM,214,214,18.77954818522993,-70.43495198520012,False,False
+Americas,Latin America and the Caribbean,Ecuador,EC,ECU,218,218,-1.5642721388853116,-78.4630326109714,False,False
+Africa,Northern Africa,Egypt,EG,EGY,818,818,26.60517034450628,30.240135435012338,False,False
+Americas,Latin America and the Caribbean,El Salvador,SV,SLV,222,222,13.758041517055418,-88.85911489238985,False,False
+Africa,Sub-Saharan Africa,Equatorial Guinea,GQ,GNQ,226,226,1.595464393659073,10.425456672353825,False,False
+Africa,Sub-Saharan Africa,Eritrea,ER,ERI,232,232,15.005533147667684,39.2672401449901,True,False
+Europe,Northern Europe,Estonia,EE,EST,233,233,58.648108311231034,25.916870250633806,False,False
+Africa,Sub-Saharan Africa,Eswatini,SZ,SWZ,748,748,-26.562540935608705,31.510685746082007,False,False
+Africa,Sub-Saharan Africa,Ethiopia,ET,ETH,231,231,8.729389557048396,39.91490288654427,True,False
+Americas,Latin America and the Caribbean,Falkland Islands,FK,FLK,238,238,-51.75901312766726,-58.746646363799854,False,False
+Europe,Northern Europe,Faroe Islands,FO,FRO,234,234,62.130896281495346,-6.9811060913122835,False,False
+Oceania,Melanesia,Fiji,FJ,FJI,242,242,-17.822470952336204,177.98144613732626,False,False
+Europe,Northern Europe,Finland,FI,FIN,246,246,65.01578959749911,25.65738433454702,False,False
+Europe,Western Europe,France,FR,FRA,250,251,46.6423682169416,2.1940236627886227,False,False
+,,Free Zones,,,838,838,,,,True
+Americas,Latin America and the Caribbean,French Guiana,GF,GUF,254,254,3.857429742497078,-53.32232307156624,False,False
+Oceania,Polynesia,French Polynesia,PF,PYF,258,258,-17.674684080120677,-149.40041671099763,False,False
+Africa,Sub-Saharan Africa,French Southern Territories,TF,ATF,260,260,-49.26329687105643,69.54686984724839,False,False
+Africa,Sub-Saharan Africa,Gabon,GA,GAB,266,266,-0.628448459921234,11.839410898545754,False,False
+Africa,Sub-Saharan Africa,Gambia,GM,GMB,270,270,13.428617959189328,-15.383380385869662,True,False
+Asia,Western Asia,Georgia,GE,GEO,268,268,42.17986277737226,43.378866534112234,False,False
+Europe,Western Europe,Germany,DE,DEU,276,276,51.08304539800482,10.426171427430804,False,False
+Africa,Sub-Saharan Africa,Ghana,GH,GHA,288,288,7.94530467243628,-1.219233362526581,False,False
+Europe,Southern Europe,Gibraltar,GI,GIB,292,292,36.14022671336082,-5.345549484594358,False,False
+Europe,Southern Europe,Greece,GR,GRC,300,300,39.42012261727978,23.110368936161876,False,False
+Americas,Northern America,Greenland,GL,GRL,304,304,74.16847218965994,-42.07567788066985,False,False
+Americas,Latin America and the Caribbean,Grenada,GD,GRD,308,308,12.112926656338908,-61.67937937204098,False,False
+Americas,Latin America and the Caribbean,Guadeloupe,GP,GLP,312,312,16.24420002705553,-61.54382262282755,False,False
+Oceania,Micronesia,Guam,GU,GUM,316,316,13.445430479945276,144.78024458298802,False,False
+Americas,Latin America and the Caribbean,Guatemala,GT,GTM,320,320,15.820878515352684,-90.31219349119615,False,False
+Europe,Northern Europe,Guernsey,GG,GGY,831,831,49.45870771378872,-2.576392582891568,False,False
+Africa,Sub-Saharan Africa,Guinea,GN,GIN,324,324,10.255986541378112,-10.986948848040218,True,False
+Africa,Sub-Saharan Africa,Guinea-Bissau,GW,GNB,624,624,11.980075324820504,-14.980186756910848,True,False
+Americas,Latin America and the Caribbean,Guyana,GY,GUY,328,328,4.68211981385056,-58.91352612754667,False,False
+Americas,Latin America and the Caribbean,Haiti,HT,HTI,332,332,18.883520486983567,-72.89291379842,True,False
+Oceania,Australia and New Zealand,Heard Island and McDonald Islands,HM,HMD,334,334,-53.084170035513736,73.49298560844045,False,False
+Americas,Latin America and the Caribbean,Honduras,HN,HND,340,340,14.740370695750006,-86.49251679006962,False,False
+Asia,Eastern Asia,Hong Kong,HK,HKG,344,344,22.3964,114.1095,False,False
+Europe,Eastern Europe,Hungary,HU,HUN,348,348,47.22527332486294,19.39620048366142,False,False
+Europe,Northern Europe,Iceland,IS,ISL,352,352,65.12360920205514,-19.05682967106099,False,False
+Asia,Southern Asia,India,IN,IND,356,699,23.58630056774672,81.17300408530181,False,False
+Asia,South-eastern Asia,Indonesia,ID,IDN,360,360,0.1559197995903765,113.96538246847302,False,False
+Asia,Southern Asia,Iran,IR,IRN,364,364,32.906023742890056,54.23707700106544,False,False
+Asia,Western Asia,Iraq,IQ,IRQ,368,368,33.105075667527906,43.83252918105688,False,False
+Europe,Northern Europe,Ireland,IE,IRL,372,372,53.30489539816495,-8.241128545554096,False,False
+Europe,Northern Europe,Isle of Man,IM,IMN,833,833,54.22855301008011,-4.532995055468449,False,False
+Asia,Western Asia,Israel,IL,ISR,376,376,31.513542220043195,35.027923472437024,False,False
+Europe,Southern Europe,Italy,IT,ITA,380,380,42.98201127614267,12.763657166123137,False,False
+Americas,Latin America and the Caribbean,Jamaica,JM,JAM,388,388,18.12207889341651,-77.30358894542778,False,False
+Asia,Eastern Asia,Japan,JP,JPN,392,392,36.76738832597829,137.46934234351835,False,False
+Europe,Northern Europe,Jersey,JE,JEY,832,832,49.215396925724306,-2.1291601162653575,False,False
+Asia,Western Asia,Jordan,JO,JOR,400,400,31.387064884449156,36.95728884547246,False,False
+Asia,Central Asia,Kazakhstan,KZ,KAZ,398,398,47.641465195176835,66.3759193479301,False,False
+Africa,Sub-Saharan Africa,Kenya,KE,KEN,404,404,0.6899182318376179,37.95309411262371,False,False
+Oceania,Micronesia,Kiribati,KI,KIR,296,296,1.8676673749241064,-157.39024189323504,True,False
+Asia,Western Asia,Kuwait,KW,KWT,414,414,29.281360965443092,47.56311109320184,False,False
+Asia,Central Asia,Kyrgyzstan,KG,KGZ,417,417,41.35698905438358,74.17532903468319,False,False
+Asia,South-eastern Asia,Laos,LA,LAO,418,418,18.11728273687328,103.76375899026448,True,False
+Europe,Northern Europe,Latvia,LV,LVA,428,428,56.813853047554154,24.693671325654403,False,False
+Asia,Western Asia,Lebanon,LB,LBN,422,422,33.91160170722086,35.89651946324749,False,False
+Africa,Sub-Saharan Africa,Lesotho,LS,LSO,426,426,-29.60168116924817,28.24475317864227,True,False
+Africa,Sub-Saharan Africa,Liberia,LR,LBR,430,430,6.52012979398834,-9.258988935497618,True,False
+Africa,Northern Africa,Libya,LY,LBY,434,434,27.20291577169079,17.91133392454237,False,False
+Europe,Western Europe,Liechtenstein,LI,LIE,438,438,47.14627562133036,9.547674672376376,False,False
+Europe,Northern Europe,Lithuania,LT,LTU,440,440,55.29437393417175,23.946021605013534,False,False
+Europe,Western Europe,Luxembourg,LU,LUX,442,442,49.77523454542369,6.103230338458876,False,False
+Asia,Eastern Asia,Macau,MO,MAC,446,446,22.2109,113.5525,False,False
+Africa,Sub-Saharan Africa,Madagascar,MG,MDG,450,450,-19.04163612493041,46.68493466832544,True,False
+Africa,Sub-Saharan Africa,Malawi,MW,MWI,454,454,-13.128986464184024,34.23441182298881,True,False
+Asia,South-eastern Asia,Malaysia,MY,MYS,458,458,3.6716608556387857,114.63330303992868,False,False
+Asia,Southern Asia,Maldives,MV,MDV,462,462,-0.6065577168009924,73.10076245140479,False,False
+Africa,Sub-Saharan Africa,Mali,ML,MLI,466,466,17.168146208584837,-4.346399841781153,True,False
+Europe,Southern Europe,Malta,MT,MLT,470,470,35.890522650899314,14.441922442508494,False,False
+Oceania,Micronesia,Marshall Islands,MH,MHL,584,584,7.307929900994344,168.72016025351076,False,False
+Americas,Latin America and the Caribbean,Martinique,MQ,MTQ,474,474,14.642697353597644,-61.01432380875083,False,False
+Africa,Sub-Saharan Africa,Mauritania,MR,MRT,478,478,20.466731212820022,-10.495079045035716,True,False
+Africa,Sub-Saharan Africa,Mauritius,MU,MUS,480,480,-20.28142317475198,57.56415671066546,False,False
+Africa,Sub-Saharan Africa,Mayotte,YT,MYT,175,175,-12.824468416301052,45.128142327031064,False,False
+Americas,Latin America and the Caribbean,Mexico,MX,MEX,484,484,23.87436068093592,-101.55399731630118,False,False
+Oceania,Micronesia,Micronesia,FM,FSM,583,583,6.8789448129255435,158.2291899444527,False,False
+Europe,Eastern Europe,Moldova,MD,MDA,498,498,47.0725674580696,28.391111865941348,False,False
+Europe,Western Europe,Monaco,MC,MCO,492,492,43.74798224995656,7.412820873271196,False,False
+Asia,Eastern Asia,Mongolia,MN,MNG,496,496,47.08644454604851,103.3987360327455,False,False
+Europe,Southern Europe,Montenegro,ME,MNE,499,499,42.73694835210454,19.29505087156758,False,False
+Americas,Latin America and the Caribbean,Montserrat,MS,MSR,500,500,16.735363391460357,-62.18693281256255,False,False
+Africa,Northern Africa,Morocco,MA,MAR,504,504,28.687598134979325,-8.817212587250811,False,False
+Africa,Sub-Saharan Africa,Mozambique,MZ,MOZ,508,508,-17.525230309488748,35.208577031290176,True,False
+Asia,South-eastern Asia,Myanmar,MM,MMR,104,104,19.901227931399873,97.08892285397344,True,False
+Asia,,NES,,,490,490,,,,True
+Europe,,NES,,,568,568,,,,True
+,,NES,,,899,899,,,,True
+Africa,,NES,,,577,577,,,,True
+Africa,Sub-Saharan Africa,Namibia,NA,NAM,516,516,-21.90858163281473,18.16451345845268,False,False
+Oceania,Micronesia,Nauru,NR,NRU,520,520,-0.5221021440668993,166.92937633139178,False,False
+Asia,Southern Asia,Nepal,NP,NPL,524,524,28.300920699755657,84.1338898313567,True,False
+Europe,Western Europe,Netherlands,NL,NLD,528,528,52.134054128923886,5.554136426128487,False,False
+Oceania,Melanesia,New Caledonia,NC,NCL,540,540,-21.33003372660827,165.50767040438612,False,False
+Oceania,Australia and New Zealand,New Zealand,NZ,NZL,554,554,-43.82765432544426,170.69035541428696,False,False
+Americas,Latin America and the Caribbean,Nicaragua,NI,NIC,558,558,12.893566631930554,-85.016088327669,False,False
+Africa,Sub-Saharan Africa,Niger,NE,NER,562,562,17.08105392407292,8.86863247002646,True,False
+Africa,Sub-Saharan Africa,Nigeria,NG,NGA,566,566,9.61029352034213,8.147714845256194,False,False
+Oceania,Polynesia,Niue,NU,NIU,570,570,-19.05230921680393,-169.86878106699083,False,False
+Oceania,Australia and New Zealand,Norfolk Island,NF,NFK,574,574,-29.03765444504628,167.95259597483337,False,False
+Asia,Eastern Asia,North Korea,KP,PRK,408,408,40.19198091470839,127.3379805653744,False,False
+Europe,Southern Europe,North Macedonia,MK,MKD,807,807,41.59402890143112,21.70998923872772,False,False
+Oceania,Micronesia,Northern Mariana Islands,MP,MNP,580,580,15.178063516432116,145.74119737203134,False,False
+Europe,Northern Europe,Norway,NO,NOR,578,579,64.97775882947745,16.670259272390894,False,False
+Asia,Western Asia,Oman,OM,OMN,512,512,20.7242833183209,55.841088119829,False,False
+Asia,Southern Asia,Pakistan,PK,PAK,586,586,30.11618837141088,69.08835090769651,False,False
+Oceania,Micronesia,Palau,PW,PLW,585,585,7.534775852547396,134.57965086721052,False,False
+Asia,Western Asia,Palestinian Territory,PS,PSE,275,275,31.930818736453883,35.24251184154588,False,False
+Americas,Latin America and the Caribbean,Panama,PA,PAN,591,591,8.439536749576892,-80.14428761482796,False,False
+Oceania,Melanesia,Papua New Guinea,PG,PNG,598,598,-7.156912819152135,144.8348942994695,False,False
+Americas,Latin America and the Caribbean,Paraguay,PY,PRY,600,600,-23.42190559259428,-58.38906357428651,False,False
+Americas,Latin America and the Caribbean,Peru,PE,PER,604,604,-8.522717984240291,-74.11416196781884,False,False
+Asia,South-eastern Asia,Philippines,PH,PHL,608,608,15.586542251094242,121.82208941416744,False,False
+Oceania,Polynesia,Pitcairn,PN,PCN,612,612,-24.366121747565455,-128.3149848627581,False,False
+Europe,Eastern Europe,Poland,PL,POL,616,616,52.06848055692473,19.43573279234468,False,False
+Europe,Southern Europe,Portugal,PT,PRT,620,620,39.67529214702138,-7.933662183874006,False,False
+Americas,Latin America and the Caribbean,Puerto Rico,PR,PRI,630,630,18.21622408661091,-66.49425339593509,False,False
+Asia,Western Asia,Qatar,QA,QAT,634,634,25.318528486425382,51.19794918743203,False,False
+Europe,Eastern Europe,Romania,RO,ROU,642,642,45.82454894397586,25.094158201563292,False,False
+Europe,Eastern Europe,Russian Federation,RU,RUS,643,643,59.039434214106194,98.6704990698032,False,False
+Africa,Sub-Saharan Africa,Rwanda,RW,RWA,646,646,-2.014687460047154,29.91943968176408,True,False
+Africa,Sub-Saharan Africa,Réunion,RE,REU,638,638,-21.119825460665105,55.54393506194689,False,False
+Americas,Latin America and the Caribbean,Saint Barthelemy,BL,BLM,652,652,17.90561691241738,-62.83051610005156,False,False
+Africa,Sub-Saharan Africa,Saint Helena,SH,SHN,654,654,-15.962963318340398,-5.717391620813109,False,False
+Americas,Latin America and the Caribbean,Saint Kitts and Nevis,KN,KNA,659,659,17.314736299587768,-62.74560385895787,False,False
+Americas,Latin America and the Caribbean,Saint Lucia,LC,LCA,662,662,13.895749185129906,-60.9689510935251,False,False
+Americas,Latin America and the Caribbean,Saint Martin,MF,MAF,663,663,18.078012113224464,-63.06678525361946,False,False
+Americas,Northern America,Saint Pierre and Miquelon,PM,SPM,666,666,46.95153913615198,-56.32465353437558,False,False
+Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,VC,VCT,670,670,13.254808122970651,-61.193766354393034,False,False
+Oceania,Polynesia,Samoa,WS,WSM,882,882,-13.634252953274622,-172.44107655740137,False,False
+Europe,Southern Europe,San Marino,SM,SMR,674,674,43.942820729097896,12.461278349581722,False,False
+Africa,Sub-Saharan Africa,Sao Tome and Principe,ST,STP,678,678,0.2274470429479377,6.606158796857607,False,False
+Asia,Western Asia,Saudi Arabia,SA,SAU,682,682,24.136038144757897,44.6009581782256,False,False
+Africa,Sub-Saharan Africa,Senegal,SN,SEN,686,686,14.228861491763402,-14.610875368352303,True,False
+Europe,Southern Europe,Serbia,RS,SRB,688,688,44.02679870131969,20.85677444395745,False,False
+Africa,Sub-Saharan Africa,Seychelles,SC,SYC,690,690,-4.660002318822744,55.47250789595527,False,False
+Africa,Sub-Saharan Africa,Sierra Leone,SL,SLE,694,694,8.561330384750587,-11.78656695731115,True,False
+Asia,South-eastern Asia,Singapore,SG,SGP,702,702,1.3528251890006349,103.81025757634052,False,False
+Americas,Latin America and the Caribbean,Sint Maarten,SX,SXM,534,534,18.03942608463078,-63.06883135915303,False,False
+Europe,Eastern Europe,Slovakia,SK,SVK,703,703,48.69808390520484,19.58101536249097,False,False
+Europe,Southern Europe,Slovenia,SI,SVN,705,705,46.13759229564504,14.89063689997378,False,False
+Oceania,Melanesia,Solomon Islands,SB,SLB,90,90,-9.613104734596517,160.16475795033884,True,False
+Africa,Sub-Saharan Africa,Somalia,SO,SOM,706,706,6.524534573103924,45.40037867243972,True,False
+Africa,Sub-Saharan Africa,South Africa,ZA,ZAF,710,710,-28.55361930679731,24.75252746489084,False,False
+Americas,Latin America and the Caribbean,South Georgia and South Sandwich Islands,GS,SGS,239,239,-54.37666443862139,-36.77509575898928,False,False
+Asia,Eastern Asia,South Korea,KR,KOR,410,410,36.402386712544114,127.76224551357647,False,False
+Africa,Sub-Saharan Africa,South Sudan,SS,SSD,728,728,7.657782041763295,30.3851856901788,True,False
+Europe,Southern Europe,Spain,ES,ESP,724,724,40.36500833668384,-3.6516251409956983,False,False
+,,Special Categories,,,839,839,,,,True
+Asia,Southern Asia,Sri Lanka,LK,LKA,144,144,7.696630939329944,80.66931169770622,False,False
+Africa,Northern Africa,Sudan,SD,SDN,729,729,15.67060230984256,29.951458283594064,True,False
+Americas,Latin America and the Caribbean,Suriname,SR,SUR,740,740,4.098723595920171,-55.855514311561286,False,False
+Europe,Northern Europe,Svalbard,SJ,SJM,744,744,78.57318936469626,16.036378851505283,False,False
+Europe,Northern Europe,Sweden,SE,SWE,752,752,62.73420986108448,17.062431988004956,False,False
+Europe,Western Europe,Switzerland,CH,CHE,756,757,46.73678128684938,8.286928794895285,False,False
+Asia,Western Asia,Syria,SY,SYR,760,760,35.09751106058316,38.5117323139514,False,False
+Asia,Central Asia,Tajikistan,TJ,TJK,762,762,38.56933138382972,70.94215281065698,False,False
+Africa,Sub-Saharan Africa,Tanzania,TZ,TZA,834,834,-6.355794440041147,34.81832206060381,True,False
+Asia,South-eastern Asia,Thailand,TH,THA,764,764,13.66222784745538,101.08675116214552,False,False
+Asia,South-eastern Asia,Timor-Leste,TL,TLS,626,626,-8.809894630601962,125.9502404956266,True,False
+Africa,Sub-Saharan Africa,Togo,TG,TGO,768,768,8.660743037717811,0.8990857571109684,True,False
+Oceania,Polynesia,Tokelau,TK,TKL,772,772,-9.195174767256544,-171.85265950722743,False,False
+Oceania,Polynesia,Tonga,TO,TON,776,776,-21.15927212823853,-175.20415878511247,False,False
+Americas,Latin America and the Caribbean,Trinidad and Tobago,TT,TTO,780,780,10.415515638298093,-61.37236579976247,False,False
+Africa,Northern Africa,Tunisia,TN,TUN,788,788,34.08636179565723,9.65587551697984,False,False
+Asia,Western Asia,Turkey,TR,TUR,792,792,38.93207363123396,35.56886764076691,False,False
+Asia,Central Asia,Turkmenistan,TM,TKM,795,795,39.06069118001429,58.4577357627054,False,False
+Americas,Latin America and the Caribbean,Turks and Caicos Islands,TC,TCA,796,796,21.799865427483745,-71.74058946811508,False,False
+Oceania,Polynesia,Tuvalu,TV,TUV,798,798,-8.514701506447222,179.217833977593,True,False
+Americas,Latin America and the Caribbean,US Virgin Islands,VI,VIR,850,850,17.738009708772523,-64.76155341409797,False,False
+Africa,Sub-Saharan Africa,Uganda,UG,UGA,800,800,1.2821729218416205,32.34371768463123,True,False
+Europe,Eastern Europe,Ukraine,UA,UKR,804,804,48.657532515563794,31.27377208442636,False,False
+Asia,Western Asia,United Arab Emirates,AE,ARE,784,784,24.18250292309135,54.27920525789581,False,False
+Europe,Northern Europe,United Kingdom,GB,GBR,826,826,53.97844735080214,-2.852943909329258,False,False
+Americas,Northern America,United States,US,USA,840,842,38.8208089190304,-96.3316166082964,False,False
+Oceania,Micronesia,United States Minor Outlying Islands,UM,UMI,581,581,19.30204581221596,166.63800339749642,False,False
+Americas,Latin America and the Caribbean,Uruguay,UY,URY,858,858,-32.78195043831093,-56.01919523458085,False,False
+Asia,Central Asia,Uzbekistan,UZ,UZB,860,860,41.4879065244633,63.8548297593985,False,False
+Oceania,Melanesia,Vanuatu,VU,VUT,548,548,-15.189132121699332,166.84912735669738,False,False
+Europe,Southern Europe,Vatican City,VA,VAT,336,336,41.90402351316735,12.451312917026131,False,False
+Americas,Latin America and the Caribbean,Venezuela,VE,VEN,862,862,7.148324760507107,-66.36492135985132,False,False
+Asia,South-eastern Asia,Vietnam,VN,VNM,704,704,16.517347170839393,105.91338832758704,False,False
+Oceania,Polynesia,Wallis and Futuna,WF,WLF,876,876,-14.283442307826675,-178.12735555777184,False,False
+Africa,Northern Africa,Western Sahara,EH,ESH,732,732,24.5,-13.0,False,False
+Asia,Western Asia,Yemen,YE,YEM,887,887,16.001392616307445,47.46815793206386,True,False
+Africa,Sub-Saharan Africa,Zambia,ZM,ZMB,894,894,-13.162832953186246,27.75521363430896,True,False
+Africa,Sub-Saharan Africa,Zimbabwe,ZW,ZWE,716,716,-18.92700121981475,29.717829640720844,False,False
+Europe,Northern Europe,Åland Islands,AX,ALA,248,248,60.25,20.0,False,False
