@@ -185,7 +185,10 @@ if __name__ == "__main__":
         'latitude', 'longitude',
         'ldc', 'non_country_region'
     ]].to_csv(
-        os.path.join(os.path.dirname(__file__), "countries.csv"),
+        os.path.join(
+            os.path.dirname(os.path.dirname(__file__)), 
+            "countries.csv"
+        ),
         index=False
     )
 
