@@ -171,6 +171,7 @@ if __name__ == "__main__":
         columns=["m49", "region", "country"]
     )
     _non_country_df['m49_comtrade'] = _non_country_df['m49']
+    _non_country_df['ldc'] = False
     _non_country_df['non_country_region'] = True
 
     merged = pd.concat([merged, _non_country_df], ignore_index=True)

@@ -34,7 +34,7 @@ Africa,Sub-Saharan Africa,British Indian Ocean Territory,IO,IOT,86,86,-7.3235484
 Americas,Latin America and the Caribbean,British Virgin Islands,VG,VGB,92,92,18.42195819619707,-64.62406519257699,False,False
 Asia,South-eastern Asia,Brunei Darussalam,BN,BRN,96,96,4.543205889917609,114.6430958360464,False,False
 Europe,Eastern Europe,Bulgaria,BG,BGR,100,100,42.82043677302438,25.251739122561908,False,False
-,,Bunkers,,,837,837,,,,True
+,,Bunkers,,,837,837,,,False,True
 Africa,Sub-Saharan Africa,Burkina Faso,BF,BFA,854,854,12.108709036312735,-1.6932816211842323,True,False
 Africa,Sub-Saharan Africa,Burundi,BI,BDI,108,108,-3.261251993278643,29.88518227845293,True,False
 Africa,Sub-Saharan Africa,Cabo Verde,CV,CPV,132,132,15.076411518651645,-23.63401005900474,False,False
@@ -77,7 +77,7 @@ Europe,Northern Europe,Faroe Islands,FO,FRO,234,234,62.130896281495346,-6.981106
 Oceania,Melanesia,Fiji,FJ,FJI,242,242,-17.822470952336204,177.98144613732626,False,False
 Europe,Northern Europe,Finland,FI,FIN,246,246,65.01578959749911,25.65738433454702,False,False
 Europe,Western Europe,France,FR,FRA,250,251,46.6423682169416,2.1940236627886227,False,False
-,,Free Zones,,,838,838,,,,True
+,,Free Zones,,,838,838,,,False,True
 Americas,Latin America and the Caribbean,French Guiana,GF,GUF,254,254,3.857429742497078,-53.32232307156624,False,False
 Oceania,Polynesia,French Polynesia,PF,PYF,258,258,-17.674684080120677,-149.40041671099763,False,False
 Africa,Sub-Saharan Africa,French Southern Territories,TF,ATF,260,260,-49.26329687105643,69.54686984724839,False,False
@@ -151,10 +151,10 @@ Americas,Latin America and the Caribbean,Montserrat,MS,MSR,500,500,16.7353633914
 Africa,Northern Africa,Morocco,MA,MAR,504,504,28.687598134979325,-8.817212587250811,False,False
 Africa,Sub-Saharan Africa,Mozambique,MZ,MOZ,508,508,-17.525230309488748,35.208577031290176,True,False
 Asia,South-eastern Asia,Myanmar,MM,MMR,104,104,19.901227931399873,97.08892285397344,True,False
-Asia,,NES,,,490,490,,,,True
-Europe,,NES,,,568,568,,,,True
-,,NES,,,899,899,,,,True
-Africa,,NES,,,577,577,,,,True
+Asia,,NES,,,490,490,,,False,True
+Europe,,NES,,,568,568,,,False,True
+,,NES,,,899,899,,,False,True
+Africa,,NES,,,577,577,,,False,True
 Africa,Sub-Saharan Africa,Namibia,NA,NAM,516,516,-21.90858163281473,18.16451345845268,False,False
 Oceania,Micronesia,Nauru,NR,NRU,520,520,-0.5221021440668993,166.92937633139178,False,False
 Asia,Southern Asia,Nepal,NP,NPL,524,524,28.300920699755657,84.1338898313567,True,False
@@ -214,7 +214,7 @@ Americas,Latin America and the Caribbean,South Georgia and South Sandwich Island
 Asia,Eastern Asia,South Korea,KR,KOR,410,410,36.402386712544114,127.76224551357647,False,False
 Africa,Sub-Saharan Africa,South Sudan,SS,SSD,728,728,7.657782041763295,30.3851856901788,True,False
 Europe,Southern Europe,Spain,ES,ESP,724,724,40.36500833668384,-3.6516251409956983,False,False
-,,Special Categories,,,839,839,,,,True
+,,Special Categories,,,839,839,,,False,True
 Asia,Southern Asia,Sri Lanka,LK,LKA,144,144,7.696630939329944,80.66931169770622,False,False
 Africa,Northern Africa,Sudan,SD,SDN,729,729,15.67060230984256,29.951458283594064,True,False
 Americas,Latin America and the Caribbean,Suriname,SR,SUR,740,740,4.098723595920171,-55.855514311561286,False,False
