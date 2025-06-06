@@ -2,6 +2,8 @@
 
 A map from ISO-alpha codes to UN M49 codes. Useful for Comtrade commodities data. Some other country data like region, sub-region, lat/lon is included.
 
+Download the csv file directly: https://github.com/DrPrettyman/CountryData/blob/main/countries.csv 
+
 ## Summary
 
 I recently dealt with some commodity export data from the UN's Comtrade database and found that the only country identifiers were M49 codes (see https://unstats.un.org/unsd/methodology/m49/overview/). Moreover, some countries in the comtrade data had different M49 codes to those found on the unstats page (France, Norway, India, Switzerland and USA).
